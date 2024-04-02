@@ -495,7 +495,7 @@
     <value>笔记本屏幕</value>
   </data>
   <data name="LEDStatusIndicators" xml:space="preserve">
-    <value>LED Status Indicators</value>
+    <value>LED 状态指示灯</value>
   </data>
   <data name="Lid" xml:space="preserve">
     <value>盖子</value>
@@ -507,7 +507,7 @@
     <value>背光</value>
   </data>
   <data name="LockScreen" xml:space="preserve">
-    <value>Lock Screen</value>
+    <value>锁定屏幕</value>
   </data>
   <data name="Logo" xml:space="preserve">
     <value>徽标</value>
@@ -585,13 +585,13 @@
     <value>和鼠标同步</value>
   </data>
   <data name="Multizone" xml:space="preserve">
-    <value>Multi Zone</value>
+    <value>多区</value>
   </data>
   <data name="MultizoneStrong" xml:space="preserve">
-    <value>Multi Zone Strong</value>
+    <value>多区强化</value>
   </data>
   <data name="Muted" xml:space="preserve">
-    <value>麦克风关闭</value>
+    <value>静音</value>
   </data>
   <data name="MuteMic" xml:space="preserve">
     <value>静音麦克风</value>
@@ -615,7 +615,7 @@
     <value>开</value>
   </data>
   <data name="OneZone" xml:space="preserve">
-    <value>One Zone</value>
+    <value>单区</value>
   </data>
   <data name="OpenGHelper" xml:space="preserve">
     <value>打开G-Helper窗口</value>
@@ -771,13 +771,13 @@
     <value>震动强度</value>
   </data>
   <data name="VisualMode" xml:space="preserve">
-    <value>Visual Mode</value>
+    <value>色域模式</value>
   </data>
   <data name="VisualModesHDR" xml:space="preserve">
-    <value>Visual Modes are not available when HDR is active</value>
+    <value>HDR 开启时不支持色域模式</value>
   </data>
   <data name="VisualModesScreen" xml:space="preserve">
-    <value>Visual Modes are not available when laptop screen is off</value>
+    <value>笔记本自带屏幕关闭时不支持色域模式</value>
   </data>
   <data name="VolumeDown" xml:space="preserve">
     <value>音量降低</value>
@@ -791,7 +791,7 @@
   <data name="WindowTop" xml:space="preserve">
     <value>窗口置顶</value>
   </data>
-  <data name="Zoom" xml:space="preserve">
+  <data name="缩放" xml:space="preserve">
     <value>Zoom</value>
   </data>
 </root>
